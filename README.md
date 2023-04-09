@@ -109,8 +109,33 @@ Run and Debug or F5
   </tr>
 </table>
 
-
-
 ## Vscode Online
-
 [Visual Estudio Code online](https://vscode.dev/)
+
+## Spotify Python
+
+Music [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+
+---
+
+## Paypal
+
+☕ Invitame un Cafe  [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+---
+
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/particulas001.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
