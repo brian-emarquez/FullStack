@@ -1,3 +1,3 @@
 # FullStack
 
-mini projects fullstack
+Mini
