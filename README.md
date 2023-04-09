@@ -11,7 +11,7 @@
   <a href="https://github.com/BrianMarquez3/FullStack/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/FullStack.svg?style=flat" alt="Forks">
   </a>cshap
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/FullStack?color=red&label=Version&logo=cshap">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/FullStack?color=red&label=Version&logo=c#">
   </a>
   
   </a>
