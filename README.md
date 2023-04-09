@@ -68,7 +68,7 @@ dotnet console
   </tr>
 </table>
 
-Debug or F5
+Run and Debug or F5
 
 
 <table align="center">
@@ -123,6 +123,7 @@ Music [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9
 ☕ Invitame un Cafe  [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ---
+
 
  <table align="center">
     <tr>
