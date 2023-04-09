@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/angularanddotnetcore.jpg" />
+      <img align="center" style="padding=0;" src="./assets/angularanddotnetcore.jpg" />
       <h4 align="center"> Angular - .NET </h4>
     </td>
   </tr>
@@ -62,7 +62,7 @@ dotnet console
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/console.png" />
+      <img align="center" style="padding=0;" src="./assets/console.png" />
       <h4 align="center"> Angular - .NET </h4>
     </td>
   </tr>
@@ -73,7 +73,7 @@ Run and Debug or F5
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/console_1.png" />
+      <img align="center" style="padding=0;" src="./assets/console_1.png" />
       <h4 align="center"> Angular - .NET </h4>
     </td>
   </tr>
@@ -91,7 +91,7 @@ dotnet mvc
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/web.png" />
+      <img align="center" style="padding=0;" src="./assets/web.png" />
       <h4 align="center"> Angular - .NET </h4>
     </td>
   </tr>
@@ -102,7 +102,7 @@ Run and Debug or F5
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/web_1.png" />
+      <img align="center" style="padding=0;" src="./assets/web_1.png" />
       <h4 align="center"> Angular - .NET </h4>
     </td>
   </tr>
@@ -131,7 +131,7 @@ Music [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/particulas001.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./assets/particulas001.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
