@@ -85,6 +85,10 @@ _ASP_
 
 Using MVC
 
+```bash
+dotnet mvc
+```
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -94,7 +98,7 @@ Using MVC
   </tr>
 </table>
 
-F5
+Run and Debug or F5
 
 <table align="center">
   <tr>
