@@ -35,18 +35,57 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/angularanddotnetcore.jpg" />
-      <h4 align="center"> Angular .NET </h4>
+      <h4 align="center"> Angular - .NET </h4>
     </td>
   </tr>
 </table>
 
-## dotnet new <TEMPLATE>
+## dotnet new TEMPLATE (Visual Studio Code)
 
-dotnet - [https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new]
+_Comandos_
+
+[Dotnet](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
+
+[https://github.com/BrianMarquez3/FullStack/tree/main/Tools]
 
 
 ## Compila Visual Studio Code
 
+
+_Console_
+
+```bash
+dotnet console
+```
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/console.png" />
+      <h4 align="center"> Angular - .NET </h4>
+    </td>
+  </tr>
+</table>
+
+Debug or F5
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/console_1.png" />
+      <h4 align="center"> Angular - .NET </h4>
+    </td>
+  </tr>
+</table>
+
+
+_ASP_
+
+sound
+
+
 ## Vscode Online
 
-[https://vscode.dev/]
+[Visual Estudio Code online](https://vscode.dev/)
