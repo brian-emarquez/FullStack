@@ -40,6 +40,10 @@
   </tr>
 </table>
 
+## dotnet new <TEMPLATE>
+
+dotnet - [https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new]
+
 
 ## Compila Visual Studio Code
 
