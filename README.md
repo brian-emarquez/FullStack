@@ -3,15 +3,15 @@
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/FullStack?color=yellow">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/FullStack?color=blue">
   </a>
   <a href="https://github.com/BrianMarquez3/FullStack/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/FullStack.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/BrianMarquez3/FullStack/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/FullStack.svg?style=flat" alt="Forks">
-  </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/FullStack?color=red&label=Version&logo=python">
+  </a>cshap
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/FullStack?color=red&label=Version&logo=cshap">
   </a>
   
   </a>
@@ -19,12 +19,11 @@
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/FullStack/total?color=green">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/FullStack/total?color=red">
   </a>
   
    </a>
    <a href="https://github.com/BrianMarquez3/FullStack/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/FullStack?color=yellow&style=for-the-badge">
