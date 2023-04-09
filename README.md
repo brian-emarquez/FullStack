@@ -70,7 +70,6 @@ dotnet console
 
 Run and Debug or F5
 
-
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
