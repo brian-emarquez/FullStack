@@ -40,6 +40,19 @@
   </tr>
 </table>
 
+## Install
+
+Install [Angular](https://angular.io/guide/setup-local)
+Install [Dotnet](https://dotnet.microsoft.com/download/dotnet/5.0)
+Install [Visual Studio Code](https://code.visualstudio.com/)
+Install [Node.js](https://nodejs.org/es/download/)
+Install [Git](https://git-scm.com/downloads)
+Install [Visual Studio](https://visualstudio.microsoft.com/es/downloads/)
+
+_Angular 15_
+
+[Eviroments Error](https://dev.to/this-is-angular/angular-15-what-happened-to-environmentts-koh)
+
 ## dotnet new TEMPLATE (Visual Studio Code)
 
 _Comandos_
@@ -47,7 +60,6 @@ _Comandos_
 [Dotnet](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 
 [https://github.com/BrianMarquez3/FullStack/tree/main/Tools]
-
 
 ## Compila Visual Studio Code
 
