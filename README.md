@@ -35,7 +35,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./assets/angularanddotnetcore.jpg" />
-      <h4 align="center"> Angular - .NET </h4>
+      <h4 align="center"> Angular 14 - .NET 6 </h4>
     </td>
   </tr>
 </table>
