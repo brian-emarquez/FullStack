@@ -42,18 +42,18 @@
 
 ## Install
 
-Install [Angular](https://angular.io/guide/setup-local)
-Install [Dotnet](https://dotnet.microsoft.com/download/dotnet/5.0)
-Install [Visual Studio Code](https://code.visualstudio.com/)
-Install [Node.js](https://nodejs.org/es/download/)
-Install [Git](https://git-scm.com/downloads)
-Install [Visual Studio](https://visualstudio.microsoft.com/es/downloads/)
+Install [Angular](https://angular.io/guide/setup-local) <br>
+Install [Dotnet](https://dotnet.microsoft.com/download/dotnet/5.0) <br>
+Install [Visual Studio Code](https://code.visualstudio.com/) <br>
+Install [Node.js](https://nodejs.org/es/download/) <br>
+Install [Git](https://git-scm.com/downloads) <br>
+Install [Visual Studio](https://visualstudio.microsoft.com/es/downloads/) <br>
 
 _Angular 15_
 
 [Eviroments Error](https://dev.to/this-is-angular/angular-15-what-happened-to-environmentts-koh)
 
-## dotnet new TEMPLATE (Visual Studio Code)
+## dotnet Template(Visual Studio Code)
 
 _Comandos_
 
@@ -72,7 +72,7 @@ _Migrate_
   
   ```bash
   dotnet ef migrations add InitialCreate
-
+  ```
 
 
 ## Compila Visual Studio Code

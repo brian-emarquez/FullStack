@@ -8,10 +8,9 @@ import { environment } from 'src/environments/environment.development';
 export class EmployeesService {
 
   baseApiUrl: string = environment.baseApiUrl;
-
   constructor(private http: HttpClient) { }
 
   getAllEmployees() {
-  this.http.get();
+    this.http.get(this.baseApiUrl);
   }
 }

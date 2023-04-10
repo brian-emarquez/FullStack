@@ -2230,11 +2230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\FullStack\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
+      "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Documents\\Proyectos\\FullStack\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
       "projectName": "FullStackAPI",
-      "projectPath": "D:\\Proyectos\\FullStack\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
+      "projectPath": "C:\\Users\\brian\\OneDrive\\Documents\\Proyectos\\FullStack\\FullStackAPI\\FullStackAPI\\FullStackAPI.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\FullStack\\FullStackAPI\\FullStackAPI\\obj\\",
+      "outputPath": "C:\\Users\\brian\\OneDrive\\Documents\\Proyectos\\FullStack\\FullStackAPI\\FullStackAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
