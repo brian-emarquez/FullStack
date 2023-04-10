@@ -61,6 +61,20 @@ _Comandos_
 
 [https://github.com/BrianMarquez3/FullStack/tree/main/Tools]
 
+_Migrate_
+  
+  ```bash
+  Add-Migration "Initial MIgration"
+  Update-Database
+  ```
+  
+  _Entity Framework_
+  
+  ```bash
+  dotnet ef migrations add InitialCreate
+
+
+
 ## Compila Visual Studio Code
 
 
