@@ -134,6 +134,17 @@ Run and Debug or F5
   </tr>
 </table>
 
+_cambiar la version Angular_
+
+* 15.2.4 - 14.2.11
+
+```bash
+npm install -g @angular/cli@14.x.x
+```
+```bash
+ng version
+```
+
 ## Vscode Online
 [Visual Estudio Code online](https://vscode.dev/)
 
