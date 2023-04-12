@@ -151,6 +151,13 @@ D:\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\refint\FullSta
 D:\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.pdb
 D:\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.genruntimeconfig.cache
 D:\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\ref\FullStackAPI.dll
+C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.AssemblyReference.cache
+C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.exe
@@ -196,13 +203,6 @@ C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.AssemblyReference.cache
-C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfoInputs.cache
-C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfo.cs
-C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.CoreCompileInputs.cache
-C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.FullStackAPI.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FullStackAPI.props
 C:\Users\brian\OneDrive\Documents\Proyectos\FullStack\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FullStackAPI.props
