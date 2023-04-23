@@ -43,12 +43,12 @@
 getbootstrap.com - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/download/)
 ## Install
 
-Install [Angular](https://angular.io/guide/setup-local) <br>
-Install [Dotnet](https://dotnet.microsoft.com/download/dotnet/5.0) <br>
-Install [Visual Studio Code](https://code.visualstudio.com/) <br>
-Install [Node.js](https://nodejs.org/es/download/) <br>
-Install [Git](https://git-scm.com/downloads) <br>
-Install [Visual Studio](https://visualstudio.microsoft.com/es/downloads/) <br>
+📦 Install [Angular](https://angular.io/guide/setup-local) <br>
+📦 Install [Dotnet](https://dotnet.microsoft.com/download/dotnet/5.0) <br>
+📦 Install [Visual Studio Code](https://code.visualstudio.com/) <br>
+📦 Install [Node.js](https://nodejs.org/es/download/) <br>
+📦 Install [Git](https://git-scm.com/downloads) <br>
+📦 Install [Visual Studio](https://visualstudio.microsoft.com/es/downloads/) <br>
 
 _Angular 15_
 
